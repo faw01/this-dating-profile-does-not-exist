@@ -2,9 +2,12 @@
 An auto generated dating profile
 Inspired by [This X Does Not Exist](https://thisxdoesnotexist.com/)
 
+CURRENT STAGE: DATA COLLECTION
+
 ## Collection of Data
 discussion of data collection to follow soon
-### Tinder settings:
+
+## Tinder settings:
 - **Distance preference:** max (161 km)
 - **Only show people in this range (for distance)**: off
 - **Age preference:** max (18 - 100+)
@@ -17,7 +20,13 @@ discussion of data collection to follow soon
 
 Scraping was done through an [Automata script](https://automa.site/workflow/XMh5OA7NPf4pIrV3hy0G_)
 
+## 
+
 ## Dataset
 will upload after processing
 
 ## Model Training
+will upload after processing
+
+## Tests
+will upload after processing
