@@ -2,7 +2,7 @@
 An auto generated dating profile
 Inspired by [This X Does Not Exist](https://thisxdoesnotexist.com/)
 
-CURRENT STAGE: DATA COLLECTION
+## **CURRENT STAGE: DATA COLLECTION**
 
 ## Collection of Data
 discussion of data collection to follow soon
@@ -18,15 +18,22 @@ discussion of data collection to follow soon
 - **Control who sees you:** Standard 
 - **Show me on Tinder:** off
 
-Scraping was done through an [Automata script](https://automa.site/workflow/XMh5OA7NPf4pIrV3hy0G_)
+Scraping was done through an [Automata script](https://automa.site/workflow/XMh5OA7NPf4pIrV3hy0G_) that I created, will comment soon.
 
 ## 
 
 ## Dataset
-will upload after processing
+[uploaded](https://github.com/faw01/this-dating-profile-does-not-exist/blob/main/tinder%20dataset.txt), not sure if i should private this or not..?
 
 ## Model Training
-will upload after processing
+more info on [tinder dataset training model using neo notebook](https://github.com/faw01/this-dating-profile-does-not-exist/blob/main/notebooks/tinder%20dataset%20training%20model%20using%20neo.ipynb)
 
 ## Tests
-will upload after processing
+**First Test Result:** (only 30 records of data)
+ae  165  isoy 	
+
+no,mse c. wh bagption of cm b stuff areversiky new😉 ig : :/?	
+
+hi	
+
+Ye Cature lol.	
