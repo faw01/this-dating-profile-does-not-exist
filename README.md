@@ -18,12 +18,12 @@ discussion of data collection to follow soon
 - **Control who sees you:** Standard 
 - **Show me on Tinder:** off
 
-Scraping was done through an [Automata script](https://automa.site/workflow/XMh5OA7NPf4pIrV3hy0G_) that I created, will comment soon.
+Scraping was done through an [Automata script](https://automa.site/workflow/XMh5OA7NPf4pIrV3hy0G_) that I created.
 
 ## 
 
 ## Dataset
-[uploaded](https://github.com/faw01/this-dating-profile-does-not-exist/blob/main/tinder%20dataset.txt), not sure if i should private this or not..?
+[uploaded](https://github.com/faw01/this-dating-profile-does-not-exist/blob/main/tinder_dataset_raw.txt), not sure if i should private this or not..?
 
 ## Model Training
 more info on [tinder dataset training model using neo notebook](https://github.com/faw01/this-dating-profile-does-not-exist/blob/main/notebooks/tinder%20dataset%20training%20model%20using%20neo.ipynb)
