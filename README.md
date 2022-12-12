@@ -18,7 +18,7 @@ discussion of data collection to follow soon
 - **Control who sees you:** Standard 
 - **Show me on Tinder:** off
 
-Scraping was done through an [Automata script](https://automa.site/workflow/XMh5OA7NPf4pIrV3hy0G_) that I created, will comment soon.
+Scraping was done through an [Automata script](https://automa.site/workflow/XMh5OA7NPf4pIrV3hy0G_) that I created.
 
 ## 
 
