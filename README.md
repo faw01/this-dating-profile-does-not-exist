@@ -1,6 +1,7 @@
 # This Dating Profile Does Not Exist
 An auto generated dating profile
 Inspired by [This X Does Not Exist](https://thisxdoesnotexist.com/)
+[Post on Medium](https://medium.com/@fawxyz/creating-synthetic-dating-profiles-using-machine-learning-82e18f9bc980)
 
 ## **CURRENT STAGE: DATA COLLECTION**
 
