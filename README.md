@@ -29,7 +29,7 @@ Scraping was done through an [Automata script](https://automa.site/workflow/XMh5
 more info on [tinder dataset training model using neo notebook](https://github.com/faw01/this-dating-profile-does-not-exist/blob/main/notebooks/tinder%20dataset%20training%20model%20using%20neo.ipynb)
 
 ## Tests
-**First Test Result:** (only 30 records of data)
+**First Test Result:** (only thirty records of data)
 
 ae  165  isoy 	
 
@@ -38,3 +38,41 @@ no,mse c. wh bagption of cm b stuff areversiky new😉 ig : :/?
 hi	
 
 Ye Cature lol.	
+
+
+**Second Test Result:** (over a thousand records of data)
+
+ative sa🤪"
+
+iginsia,be can deglish, Melayuage
+
+"Hi kindaid lady
+
+soitye on✔️
+
+"
+
+Just looking for away!!!
+
+so cat lady"Dont worp:
+
+**Third Test Result:** (over a thousand records of data)
+
+�️🎾🏌🏼"
+
+expand my circle in malacca hehe
+
+Nk but hot stuff :)
+
+"d me on ^
+
+"
+
+anut
+
+Down for some cring new friends
+
+Swipe right if u have a
+
+
+
